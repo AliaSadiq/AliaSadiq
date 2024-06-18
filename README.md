@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasadiq&label=Profile%20views&color=0e75b6&style=flat" alt="aliasadiq" /> </p>
 
-- 🔭 I completed an internship with the **Artficial Intelligence community of Pakistan**
+- 🌱 I’m currently learning **Flutter**
 
-- 🌱 I’m currently learning **Blockchain**
-
-- 💬 Ask me about **Python,Java,css,Html,solidity and sql**
+- 💬 Ask me about **Java,css,Html,Nodejs,Mongo,React.js and Express**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aliasadiq/**
 
