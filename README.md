@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliasadiq&show_icons=true&locale=en&layout=compact" alt="aliasadiq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliasadiq&show_icons=true&locale=en" alt="aliasadiq" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliasadiq&" alt="aliasadiq" /></p>
