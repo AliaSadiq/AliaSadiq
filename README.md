@@ -1,4 +1,4 @@
-![logo](https://github.com/AliaSadiq/AliaSadiq/blob/main/Banner.png)
+![logo](https://github.com/AliaSadiq/AliaSadiq/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Alia Sadiq</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
