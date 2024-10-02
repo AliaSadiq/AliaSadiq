@@ -26,9 +26,7 @@
     <img height="155em" src="https://raw.githubusercontent.com/aliasadiq/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="AliaSadiq github stats" />
 <br>
      
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliasadiq&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="aliasadiq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliasadiq&theme=black" alt="aliasadiq" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliasadiq&theme=dark&show_icons=true&locale=en" alt="aliasadiq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliasadiq&theme=dark&show_icons=true&locale=en" alt="aliasadiq" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliasadiq&theme=dark&hide_border=false" alt="aliasadiq" /></p>
