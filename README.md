@@ -22,11 +22,14 @@
 
   <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/AliaSadiq">
-   <img height="155em" src="https://raw.githubusercontent.com/AliaSadiq/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="AliaSadiq github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/AliaSadiq/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="AliaSadiq github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/aliasadiq/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="AliaSadiq github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/aliasadiq/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="AliaSadiq github stats" />
 <br>
      
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliasadiq&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="aliasadiq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliasadiq&theme=black" alt="aliasadiq" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliasadiqi&theme=radical&show_icons=true&locale=en&layout=compact" alt="aliasadiq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliasadiq&theme=radical&show_icons=true&locale=en" alt="aliasadiq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliasadiq&theme=radical&hide_border=false" alt="aliasadiq" /></p>
