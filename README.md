@@ -30,6 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliasadiq&theme=black" alt="aliasadiq" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliasadiqi&theme=radical&show_icons=true&locale=en&layout=compact" alt="aliasadiq" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliasadiq&theme=radical&show_icons=true&locale=en" alt="aliasadiq" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliasadiq&theme=radical&hide_border=false" alt="aliasadiq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliasadiq&theme=dark&show_icons=true&locale=en" alt="aliasadiq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliasadiq&theme=dark&hide_border=false" alt="aliasadiq" /></p>
+
