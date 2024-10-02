@@ -21,7 +21,7 @@
 
 
   <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/sanjay-kv">
+<a href="https://github.com/AliaSadiq">
    <img height="155em" src="https://raw.githubusercontent.com/AliaSadiq/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="AliaSadiq github stats" />
     <img height="155em" src="https://raw.githubusercontent.com/AliaSadiq/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="AliaSadiq github stats" />
 <br>
