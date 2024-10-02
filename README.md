@@ -30,10 +30,10 @@
   <li>🚀 Built using the MERN stack (MongoDB, Express, React, Node.js).</li>
   <li>🛠️ Features:</li>
   <ul>
-    <li>📊 **Campaign Management for Plants**: Create and manage campaigns to promote specific plants, offering discounts and seasonal deals.</li>
-    <li>🛍️ **Shop for Nurseries**: A marketplace module that allows users to browse and purchase plants from various nurseries.</li>
-    <li>🌱 **Personal Growth Tracking**: Users can track the growth and health of their plants, set reminders for watering, and receive care tips.</li>
-    <li>🌐 **Social Network for Plant Enthusiasts**: A community feature where users can share plant photos, tips, and experiences, and engage with fellow plant lovers.</li>
+    <li>📊 Campaign Management for Plants: Create and manage campaigns to promote specific plants, offering discounts and seasonal deals.</li>
+    <li>🛍️ Shop for Nurseries: A marketplace module that allows users to browse and purchase plants from various nurseries.</li>
+    <li>🌱 Personal Growth Tracking: Users can track the growth and health of their plants, set reminders for watering, and receive care tips.</li>
+    <li>🌐 Social Network for Plant Enthusiasts: A community feature where users can share plant photos, tips, and experiences, and engage with fellow plant lovers.</li>
   </ul>
 </ul>
 
