@@ -22,8 +22,8 @@
 
   <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/sanjay-kv">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/AliaSadiq/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="AliaSadiq github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/AliaSadiq/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="AliaSadiq github stats" />
 <br>
      
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliasadiq&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="aliasadiq" /></p>
