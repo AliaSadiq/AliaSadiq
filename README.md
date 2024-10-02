@@ -4,11 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasadiq&label=Profile%20views&color=0e75b6&style=flat" alt="aliasadiq" /> </p>
 
+- 👨🏻‍💻 **About Me**
+  
+- ✨ Software Engineer <br>
+
+-⚡ Check my ✨ [Portfolio](https://alia-sadiq.vercel.app/)
+
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Java,css,Html,Nodejs,Mongo,React.js and Express**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aliasadiq/**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,9 +30,10 @@
 
   <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/AliaSadiq">
-   <img height="155em" src="https://raw.githubusercontent.com/aliasadiq/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="AliaSadiq github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/aliasadiq/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="AliaSadiq github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/AliaSadiq/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="AliaSadiq github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/AliaSadiq/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="AliaSadiq github stats" />
 <br>
+
      
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliasadiq&theme=dark&show_icons=true&locale=en" alt="aliasadiq" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliasadiq&theme=dark&hide_border=false" alt="aliasadiq" /></p>
