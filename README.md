@@ -83,21 +83,7 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
 </a>
-<a href="https://shadcn.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://shadcn.dev/logo.svg" alt="ShadCN" width="40" height="40"/> 
-</a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
 </a>
-<a href="https://zod.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" alt="Zod" width="40" height="40"/> 
-</a>
-<a href="https://clerk.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://clerk.dev/_next/image?url=%2Fimages%2Flogos%2Ffavicon.png&w=128&q=75" alt="Clerk" width="40" height="40"/> 
-</a>
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/prisma/prisma/main/logo.svg" alt="Prisma" width="40" height="40"/> 
-</a>
-<a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.png" alt="React Query" width="40" height="40"/> 
-</a>
+
