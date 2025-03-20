@@ -2,13 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasadiq&label=Profile%20views&color=0e75b6&style=flat" alt="aliasadiq" /> </p>
 
-- 👨🏻‍💻 **About Me**✨ Software Engineer
+- 👨🏻‍💻 **About Me**🚀 Full Stack Developer |MERN & Next.js. 
   
-- ⚡ Check my ✨ [Portfolio](https://alia-sadiq.vercel.app/)
+- ⚡ Check my ✨ [Portfolio](https://aliasadiq.vercel.app/)
 
-- 💬 Ask me about **Java,css,Html,Nodejs,Mongo,React.js and Express**
-
-- 📫 How to reach me **https://www.linkedin.com/in/aliasadiq/**
+- ⚡ My code works…until it doesn’t.
+  
+- ☕ Fuelled by chai, powered by TypeScript.
+  
+- 🤖 AI is next on my hit list.
+- 📫 How to reach me **aliasadiq2003gmail.com**
 
 
 
