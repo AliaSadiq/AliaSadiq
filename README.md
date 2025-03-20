@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alia Sadiq</h1>
 
 - 👨🏻‍💻 **About Me**
-- 🚀 Full Stack Developer |MERN & Next.js. 
-- ⚡ My code works…until it doesn’t.
-- ☕ Fuelled by chai, powered by TypeScript.
-- 🤖 AI is next on my hit list.
-- ✨ Check my  [Portfolio](https://aliasadiq.vercel.app/)
-- 📫 How to reach me **aliasadiq2003gmail.com**
+- 🚀 Full Stack Developer |MERN & Next.js.            - ⚡ My code works…until it doesn’t.
+- ☕ Fuelled by chai, powered by TypeScript.          - 🤖 AI is next on my hit list.
+- ✨ Check my [Portfolio](https://aliasadiq.vercel.app/)- 📫 How to reach me **aliasadiq2003gmail.com**
 
 
 
