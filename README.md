@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alia Sadiq</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasadiq&label=Profile%20views&color=0e75b6&style=flat" alt="aliasadiq" /> </p>
-
 - 👨🏻‍💻 **About Me**
 - 🚀 Full Stack Developer |MERN & Next.js. 
-  
-- ✨ Check my  [Portfolio](https://aliasadiq.vercel.app/)
-
 - ⚡ My code works…until it doesn’t.
-  
 - ☕ Fuelled by chai, powered by TypeScript.
-  
 - 🤖 AI is next on my hit list.
+- ✨ Check my  [Portfolio](https://aliasadiq.vercel.app/)
 - 📫 How to reach me **aliasadiq2003gmail.com**
 
 
