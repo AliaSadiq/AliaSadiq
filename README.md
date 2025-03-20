@@ -9,14 +9,18 @@
     <tr>
       <td>
         <ul>
+          <li>
         - ⚡ My code works…until it doesn’t.  
         - ☕ Fuelled by chai, powered by TypeScript.  
+            </li>
         </ul>
       </td>
       <td>
         <ul>
+          <li>
         - 🤖 AI is next on my hit list.  
         - 📫 How to reach me:aliasadiq2003@gmail.com 
+          </li>
         </ul>
       </td>
     </tr>
@@ -41,13 +45,6 @@
 
 ---
 
-### 📈 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALiaSadiq&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliaSadiq&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
----
 
 ### 🔗 **Connect with Me**
 <div align="center">
@@ -66,12 +63,11 @@
 
 ### 💡 **Fun Fact**
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7139&width=435&lines=I+once+spent+3+hours+debugging...;...only+to+realize+I+forgot+to+save+the+file.+🫠" alt="Fun Fact">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7139&width=435&lines=I+once+spent+3+hrs+debugging..;..only+2+realize+I+forgot+2+save+the+file.+🫠" alt="Fun Fact">
 </div>
 
 ---
-
-### 🎨 **Animations**
+## 🎨 3D Effect
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliaSadiq&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
+  <img src="https://github.com/AliaSadiq/AliaSadiq/blob/main/3d-effect.gif" alt="3D Effect" width="500"/>
 </div>
