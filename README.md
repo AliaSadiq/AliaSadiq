@@ -63,7 +63,7 @@
 
 ### 💡 **Fun Fact**
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7139&width=500&lines=I+once+spent+3+hours+debugging..;..only+to+realize+I+forgot+to+save+the+file.+🫠" alt="Fun Fact">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7139&width=600&lines=I+once+spent+3+hours+debugging...;...only+to+realize+I+forgot+to+save+the+file.+🫠" alt="Fun Fact">
 </div>
 
 ---
