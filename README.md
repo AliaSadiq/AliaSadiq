@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Asadiq</h1>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="console.log(username|nd Li)|Alia Sadiq)" title="console.log(username|nd Li)|Alia Sadiq)"/>](https://Alia Sadiq/)
 <h3 align="center">🚀 Full Stack Developer | MERN & Next.js</h3>
 
 ---
