@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="console.log(username|nd Li)|Alia Sadiq)" title="console.log(username|nd Li)|Alia Sadiq)"/>](https://Alia Sadiq/)
+[<img src="https://raw.githubusercontent.com/AliaSadiq/AliaSadiq/master/intro.gif" alt="console.log(user(name|nd Li)|Alia Sadiq)" title="console.log(user(name|nd Li)|Alia Sadiq)"/>]
 <h3 align="center">🚀 Full Stack Developer | MERN & Next.js</h3>
 
 ---
