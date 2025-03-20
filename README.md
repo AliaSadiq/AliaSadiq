@@ -8,12 +8,16 @@
   <table>
     <tr>
       <td>
+        <ul>
         - ⚡ My code works…until it doesn’t.  
         - ☕ Fuelled by chai, powered by TypeScript.  
+        </ul>
       </td>
       <td>
+        <ul>
         - 🤖 AI is next on my hit list.  
-        - 📫 How to reach me: **aliasadiq2003@gmail.com**  
+        - 📫 How to reach me:aliasadiq2003@gmail.com 
+        </ul>
       </td>
     </tr>
   </table>
@@ -39,21 +43,21 @@
 
 ### 📈 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALiaSadiq&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliaSadiq&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
 
 ### 🔗 **Connect with Me**
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/aliasadiq">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://twitter.com/aliasadiqcode">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://your-portfolio-link">
+  <a href="https://aliasadiq.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </div>
@@ -69,5 +73,5 @@
 
 ### 🎨 **Animations**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliaSadiq&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
 </div>
