@@ -2,9 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasadiq&label=Profile%20views&color=0e75b6&style=flat" alt="aliasadiq" /> </p>
 
-- 👨🏻‍💻 **About Me**🚀 Full Stack Developer |MERN & Next.js. 
+- 👨🏻‍💻 **About Me**
+- 🚀 Full Stack Developer |MERN & Next.js. 
   
-- ⚡ Check my ✨ [Portfolio](https://aliasadiq.vercel.app/)
+- ✨ Check my  [Portfolio](https://aliasadiq.vercel.app/)
 
 - ⚡ My code works…until it doesn’t.
   
