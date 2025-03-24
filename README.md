@@ -8,21 +8,28 @@
   <table>
     <tr>
       <td>
-        <ul>
-          <li>
         - ⚡ My code works…until it doesn’t.  
-        - ☕ Fuelled by chai, powered by TypeScript.  
-            </li>
-        </ul>
+        
+          
       </td>
+      
       <td>
         <ul>
           <li>
         - 🤖 AI is next on my hit list.  
-        - 📫 How to reach me:aliasadiq2003@gmail.com 
+       
           </li>
         </ul>
       </td>
+      
+    </tr>
+    <tr>
+    <td>
+    - ☕ Fuelled by chai, powered by TypeScript.  
+    </td>
+    <td>
+     - 📫 How to reach me:aliasadiq2003@gmail.com 
+    </td>
     </tr>
   </table>
 </div>
