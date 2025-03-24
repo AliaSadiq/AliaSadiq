@@ -8,20 +8,15 @@
   <table>
     <tr>
       <td>
-        - ⚡ My code works…until it doesn’t.  
-        
-          
+        - ⚡ My code works…until it doesn’t. 
       </td>
-      
       <td>
         <ul>
           <li>
         - 🤖 AI is next on my hit list.  
-       
           </li>
         </ul>
       </td>
-      
     </tr>
     <tr>
     <td>
@@ -61,10 +56,6 @@
   <a href="https://twitter.com/aliasadiqcode">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://aliasadiq.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-</div>
 
 ---
 
@@ -73,8 +64,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7139&width=600&lines=I+once+spent+3+hours+debugging...;...only+to+realize+I+forgot+to+save+the+file.+🫠" alt="Fun Fact">
 </div>
 
----
-## 🎨 3D Effect
-<div align="center">
-  <img src="https://github.com/AliaSadiq/AliaSadiq/blob/main/3d-effect.gif" alt="3D Effect" width="500"/>
-</div>
+
