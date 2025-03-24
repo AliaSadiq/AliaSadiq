@@ -11,16 +11,12 @@
         - ⚡ My code works…until it doesn’t. 
       </td>
       <td>
-        <ul>
-          <li>
-        - 🤖 AI is next on my hit list.  
-          </li>
-        </ul>
+           - ☕ Fuelled by chai, powered by TypeScript.  
       </td>
     </tr>
     <tr>
     <td>
-    - ☕ Fuelled by chai, powered by TypeScript.  
+    - 🤖 AI is next on my hit list.  
     </td>
     <td>
      - 📫 How to reach me:aliasadiq2003@gmail.com 
