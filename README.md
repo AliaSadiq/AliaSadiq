@@ -45,7 +45,7 @@
 
 ### 🔗 **Connect with Me**
 <div align="center">
-  <a href="https://www.linkedin.com/in/aliasadiq">
+  <a href="https://www.linkedin.com/in/aliasadiq-full-stack-developer">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/aliasadiqcode">
