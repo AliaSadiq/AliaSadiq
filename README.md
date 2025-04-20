@@ -57,7 +57,7 @@
 
 ### 💡 **Fun Fact**
 <p align="center">
-   once spent 3 hours debugging...
+   I once spent 3 hours debugging...
 ...only to realize I forgot to save the file. 🫠
 </p>
 
