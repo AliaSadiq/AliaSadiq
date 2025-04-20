@@ -57,7 +57,8 @@
 
 ### 💡 **Fun Fact**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7139&width=600&lines=I+once+spent+3+hours+debugging...;...only+to+realize+I+forgot+to+save+the+file.+🫠" alt="funfact" />
+   once spent 3 hours debugging...
+...only to realize I forgot to save the file. 🫠
 </p>
 
 
